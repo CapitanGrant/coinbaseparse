@@ -57,4 +57,10 @@ TEST_DB_URL="mysql+aiomysql://user:password@host:port/db"
 
 ```bash
 docker-compose up --build
+
+```
+
+4. Для просмотра документации:
+```bash
+http://http://localhost:8000/docs#
 ```
